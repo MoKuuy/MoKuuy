@@ -1,7 +1,5 @@
 ![](assets/Bottom_up.svg)
 
-<h1 align="center">This' My Profile,Welcome!!!</h1>
-
 
 <h3>MoKuuy View Count:
 
