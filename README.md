@@ -1,17 +1,18 @@
-### Hi there 👋
+![](assets/Bottom_up.svg)
 
-<!--
-**MoKuuy/MoKuuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###View count
+<h3>MoKuuy View Count:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![MoKuuy](https://count.getloli.com/get/@MoKuuy?theme=gelbooru-h)
+  
+![MoKuuy](https://count.getloli.com/get/@MoKuuy?theme=gelbooru)
+
+```{toggle}
+Some hidden toggle content!
+
+![MoKuuy](https://count.getloli.com/get/@MoKuuy?theme=gelbooru)
+```
+
+
+###
+![MoKuuy's github stats](https://github-readme-stats.vercel.app/api?username=MoKuuy&show_icons=true&theme=radical&include_all_commits=true)
