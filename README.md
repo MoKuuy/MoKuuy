@@ -1,8 +1,4 @@
 ![](assets/Bottom_up.svg)
-
-
-<h3>MoKuuy View Count:
-
 ![](img/en.jpg)
 
 | ![](img/emu.png) | ![MoKuuy](https://count.getloli.com/get/@MoKuuy?theme=gelbooru) | ![](img/nene.png) |
